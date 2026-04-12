@@ -116,13 +116,14 @@ If you use this repository, cite the original paper:
 
 ```bibtex
 @inproceedings{ibrahim2016hierarchical,
-	title={A Hierarchical Deep Temporal Model for Group Activity Recognition},
-	author={Ibrahim, Mostafa S. and Muralidharan, Srikanth and Deng, Zhiwei and Vahdat, Arash and Mori, Greg},
-	booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
-	year={2016}
+ title={A Hierarchical Deep Temporal Model for Group Activity Recognition},
+ author={Ibrahim, Mostafa S. and Muralidharan, Srikanth and Deng, Zhiwei and Vahdat, Arash and Mori, Greg},
+ booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+ year={2016}
 }
 ```
 
 ## License
 
 License: This project is for educational and research purposes.
+
