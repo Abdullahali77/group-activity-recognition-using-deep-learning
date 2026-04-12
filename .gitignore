@@ -1,0 +1,23 @@
+# Python caches
+__pycache__/
+*.py[cod]
+*~
+
+# Datasets
+data/
+*.mp4
+*.pkl
+
+# Weights and Checkpoints 
+*.pth
+*.pt
+checkpoints/
+
+# Logs
+logs/
+*.log
+
+# Environments
+.env
+venv/
+env/
