@@ -43,12 +43,12 @@ Fill these with your final reported numbers.
 | B5 | `models/b5.py` | Player LSTM summaries + player max pool | **[81%]** |
 | B6 | `models/b6.py` | Pooled features + bidirectional LSTM | **[83%]** |
 | B7 | `models/b7.py` | Player LSTM -> frame LSTM hierarchy | **[86%]** |
-| B8 | `models/model_b8.py` | Hierarchical person/group model with team aggregation | **[88%]** |
+| B8 | `models/model_b8.py` | Hierarchical person/group model with team aggregation | **[90%]** |
 
 ### Best Baseline
 
 - Best model: **[`models/model_b8.py`]**
-- Best accuracy: **[88%]**
+- Best accuracy: **[90%]**
 
 ## Dataset and Labels
 
